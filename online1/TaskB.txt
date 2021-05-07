@@ -1,0 +1,8 @@
+1. How many lines & how many commas? (2)
+2. Find out how many 'for' (ignore case) are there? (2)
+3. Find out the starting position of 'for' (ignore case)
+   in the matched line. Each line starts from index 0.
+   (2)
+4. Construct a new String replacing all 'for' to
+   'for all'. (2)
+5. Test whether provided string is palindrome or not? (2)  

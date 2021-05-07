@@ -1,0 +1,16 @@
+String to Other Data types conversions and vice-versa:
+1. Integer
+2. Double
+3. Float
+4. Byte
+5. Long
+6. Boolean
+
+StringTokenize
+StringBuilder
+StringBuffer
+Array
+Arrays
+
+static member & static method
+
